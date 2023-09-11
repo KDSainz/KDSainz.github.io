@@ -1,2 +1,2 @@
-# KDSainz.github.io
+# KDSainz.Teorias_Aprendizaje
 IGC_Paginaweb_KellyDiaz
